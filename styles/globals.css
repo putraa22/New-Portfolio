@@ -19,9 +19,9 @@
 }
 
 @layer base {
-  body {
+  /* body {
     @apply bg-secondary overflow-hidden leading-relaxed;
-  }
+  } */
   .page {
     @apply w-full h-screen overflow-hidden;
   }
