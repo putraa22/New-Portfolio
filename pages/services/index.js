@@ -35,8 +35,8 @@ const Services = () => {
             >
               With experience and expertise in front end development, I am ready
               to help you create engaging and effective digital experiences for
-              your users. Contact me if you need high-quality front end
-              development services for your project.
+              your users. Contact me if you need high-quality Front End
+              Development services for your project.
             </motion.p>
           </div>
           {/* slider */}
